@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itzghost33" alt="itzghost33" /></a> </p>
 
-- 👯 I’m looking to collaborate on **DevOps and Cloud Native Projects**
+- 👯 I’m looking to collaborate on **Data science and Machine learning projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
