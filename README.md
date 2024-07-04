@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VEGASHKAR</h1>
-<h3 align="center">An Undergraduate in Electrical and Electronic Engineering</h3>
+<h3 align="center">Electrical and Electronic Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzghost33&label=Profile%20views&color=0e75b6&style=flat" alt="itzghost33" /> </p>
 
